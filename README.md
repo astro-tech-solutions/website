@@ -9,3 +9,7 @@ edit from develop branch
 ## Purpose
 
 the purpose of this file is to provide example
+
+## Getting Started
+
+To get started with this project, just `clone` this erpository
